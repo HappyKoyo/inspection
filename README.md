@@ -21,11 +21,9 @@ Robot Inspection用のスクリプト.
 - [ ] 機体のスイッチをONにする
 - [ ] 充電器を抜く
 ## ソフトウェア  
-'''
-~/catkin_ws/src/inspection/scripts/sh start_inspection.sh
-'''
-'''
-rosrun inspection EInspection
+```
+    ~/catkin_ws/src/inspection/scripts/sh start_inspection.sh
+    rosrun inspection EInspection
 ```
 
 --------------------------------
